@@ -16,7 +16,7 @@ import DesktopWindowsIcon from '@material-ui/icons/DesktopWindows';
 import { withTooltip } from '../Providers/MuiProvider';
 
 const defaultItems = [
-  {icon: <AddToHomeScreenIcon /> , title: 'スマーフォン', text: 'スマフォ', }, 
+  {icon: <AddToHomeScreenIcon /> , title: 'スマートフォン', text: 'スマフォ', }, 
   {icon: <DesktopMacIcon />      , title: 'デスクトップ（Mac）', text: 'Mac', }, 
   {icon: <DesktopWindowsIcon />  , title: 'デスクトップ（Windows）', text: 'Windows', }, 
 ];
