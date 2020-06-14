@@ -16,6 +16,7 @@ const useStyles = makeStyles(theme => ({
     boxShadow: theme.shadows[5], 
     width: 600, 
     margin: '0 auto', 
+    zIndex: theme.zIndex.snackbar, 
   }, 
 }));
 
